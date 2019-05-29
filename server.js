@@ -16,10 +16,8 @@ const db = knex(
   {
   client: 'pg',
   connection: {
-    host : 'postgresql-vertical-58535',
-    user : 'postgres',
-    password : 'arsenal360',
-    database : 'face-detect'
+    host : process.env.DATABASE_URL,
+    ssl:true
   }
 }
 );
