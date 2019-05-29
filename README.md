@@ -1,8 +1,7 @@
-# SmartBrain-api - v1
-Final project for Udemy course
+# React-face-detect-api
 
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
 
-** Make sure you use postgreSQL instead of mySQL for this code base.
+3# This server use postgreSql. Install postgreSql
