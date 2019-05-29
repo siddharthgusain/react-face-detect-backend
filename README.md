@@ -4,4 +4,4 @@
 2. Run `npm install`
 3. Run `npm start`
 
-3# This server use postgreSql. Install postgreSql
+# This server use postgreSql. Install postgreSql
